@@ -39,13 +39,7 @@ The Employee Management System (EMS) is a web application developed to streamlin
 - Ant Design & React-Bootstrap: UI library for building sleek and responsive user interfaces.
 - Chart.js: Library for creating interactive and customizable charts and graphs.
 
-## Dashboard
 
-![Dashboard](./images/dashboard.png)
-
-## Profile Page
-
-![Profile](./images/profile.png)
 
 ## Installation
 
